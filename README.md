@@ -1,6 +1,9 @@
 # rdp-socks5
 Remote Desktop over Socks5 proxy
 
+Công cụ Hỗ trợ thực hiện Remote Desktop thông qua Socks5 proxy
+Công cụ này giúp người sử dụng thực hiện việc remote desktop vào trong các máy chủ khác cùng mạng LAN khi đã có quyền truy cập SSH vào một máy tính thuộc mạng này.
+
 # usage
 ## Run socks5 proxy
 ![image](https://user-images.githubusercontent.com/8877695/180183968-3fbc99f2-9a5f-4cbe-9d68-9a189c06969a.png)
