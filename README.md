@@ -10,7 +10,7 @@ Công cụ này giúp người sử dụng thực hiện việc remote desktop v
 
 ## Run proxy rdp
 ```
-rdp-socks5.exe -l 127.0.0.1:3388 -r 10.0.9.11:3389 -x "socks5://127.0.0.1:1081?timeout=5m"
+rdp-socks5.exe -l 127.0.0.1:3388 -r 10.0.9.11:3389 -x "socks5://127.0.0.1:1081?timeout=5h"
 ```
 
 ## Using rdp over proxy
